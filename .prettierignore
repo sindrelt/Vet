@@ -1,0 +1,8 @@
+.next/
+node_modules/
+.local/
+.env*
+package-lock.json
+test-results/
+playwright-report/
+next-env.d.ts
